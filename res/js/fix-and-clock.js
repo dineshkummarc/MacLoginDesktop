@@ -122,5 +122,23 @@ $("#trash a[data-rel=close]").click(function(e) {
     $(this.hash).hide();
 });
 
+$("#project a[data-rel=close]").click(function(e) {
+    e.preventDefault();
+	item.fadeOut(500);
+    $(this.hash).hide();
+});
+
+$("#spec a[data-rel=close]").click(function(e) {
+    e.preventDefault();
+	item.fadeOut(500);
+    $(this.hash).hide();
+});
+
+$("#share a[data-rel=close]").click(function(e) {
+    e.preventDefault();
+	item.fadeOut(500);
+    $(this.hash).hide();
+});
+
 
 }); 
