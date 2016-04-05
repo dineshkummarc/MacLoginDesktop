@@ -1,7 +1,7 @@
 #MacLoginDesktop
 
 Version 3:
-- [] new feature
+- [] New feature to be coming
 
 Version 2:
 - [x] I am just trying to enhance in my own way. here i have just given closing button to the popups shown on the desktop.
